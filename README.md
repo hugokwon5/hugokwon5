@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Aqua Analyzer](https://enactussfu.ca/new-page)
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Databases**
 
 - 📫 How to reach me **hugokwon5@gmail.com**
 
